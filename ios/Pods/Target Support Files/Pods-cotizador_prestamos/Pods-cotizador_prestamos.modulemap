@@ -1,0 +1,6 @@
+module Pods_cotizador_prestamos {
+  umbrella header "Pods-cotizador_prestamos-umbrella.h"
+
+  export *
+  module * { export * }
+}
